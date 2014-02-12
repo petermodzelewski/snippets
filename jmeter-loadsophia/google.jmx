@@ -78,7 +78,7 @@
         </objProp>
         <stringProp name="filename"></stringProp>
         <stringProp name="project">GoogleQueryTest</stringProp>
-        <stringProp name="uploadToken">T4YgliIvpC8TrrZTJCRZOmNIeJRtWosvD8dFpQUIi4bNMeeJLmdsM8op8p8QJUF8r7uCtOlhzbS0j3vb9TZP6lRQzaWmg7T0JtXMSV7QWFzkf4/zWiLeP9l1y8MKCzbtiOO65jmtE8RsGXw0nC5cj1N9TDVW+7VccdpmVD74CZw=</stringProp>
+        <stringProp name="uploadToken">FILL ME</stringProp>
         <stringProp name="storeDir">D:\Java\apache-jmeter-2.11\bin\xxx</stringProp>
         <stringProp name="color">none</stringProp>
         <stringProp name="title">${__time(yyyy-MM-dd-HH:mm:ss)}</stringProp>
