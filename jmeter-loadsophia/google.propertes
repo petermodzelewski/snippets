@@ -1,0 +1,5 @@
+test.thread.max=4
+test.thread.rampUp=1
+test.baseCount=10
+google.host=google.pl
+google.query=loadosophia
